@@ -1,0 +1,5 @@
+FROM mongod
+
+EXPOSE 27017 27018 27019
+
+#ENTRYPOINT ["usr/bin/mongos"]

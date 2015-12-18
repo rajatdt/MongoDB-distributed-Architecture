@@ -1,0 +1,1 @@
+chmod a+x AA2install-weave.sh BB2create-container.sh CC2create-router.sh EE2stop-container.sh EE2startNset-ip-cont.sh

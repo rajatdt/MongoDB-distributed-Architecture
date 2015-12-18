@@ -1,0 +1,5 @@
+FROM mongodv5-3
+
+EXPOSE 23000 24000 25000 26000
+
+ENTRYPOINT ["usr/bin/mongos"]
